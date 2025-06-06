@@ -32,7 +32,7 @@ A reaction-based game built using an Arduino Uno. Players must press the correct
 
 ---
 
-## 🧱 Arduino Pin Layout
+## Arduino Pin Layout
 
 | Function        | Arduino Pin |
 |----------------|-------------|
@@ -58,5 +58,4 @@ A reaction-based game built using an Arduino Uno. Players must press the correct
 
 ## Video
 
-
-Enjoy whacking those virtual moles!
+- 
