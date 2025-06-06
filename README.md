@@ -58,4 +58,4 @@ A reaction-based game built using an Arduino Uno. Players must press the correct
 
 ## Video
 
-- 
+- https://youtu.be/INgnwb_deeY
